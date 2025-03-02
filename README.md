@@ -28,10 +28,11 @@
 [![](https://visitcount.itsvg.in/api?id=Yoshiiron&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-#📊LeetCode and CodeWars stats
+# 📊LeetCode and CodeWars stats
 <div align="center">
   
-![](https://leetcard.jacoblin.cool/yoshiiron?theme=catppuccinMocha&font=Anek%20Telugu))<br/>
+![](https://leetcard.jacoblin.cool/yoshiiron?theme=catppuccinMocha&font=Anek%20Telugu)<br/>
+![](![Codewars](https://github.r2v.ch/codewars?user=Yoshiiron&stroke=%23BB432C)<br/>
 
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
