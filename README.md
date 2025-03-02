@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I'm currently studying Go and the Gin framework on my journey to becoming a backend developer!<br>⭐️ I enjoy building pet projects, exploring databases, and learning new technologies.
+💻 I'm currently studying Go on my journey to becoming a backend developer!<br>⭐️ I enjoy building pet projects, exploring databases, and learning new technologies.
 
 
 ## 🌐 Socials:
