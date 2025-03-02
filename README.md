@@ -27,4 +27,11 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Yoshiiron&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+#📊LeetCode and CodeWars stats
+<div align="center">
+  
+![](https://leetcard.jacoblin.cool/yoshiiron?theme=catppuccinMocha&font=Anek%20Telugu))<br/>
+
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
