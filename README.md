@@ -31,7 +31,8 @@
 # 📊LeetCode and CodeWars stats
 <div align="center">
   
-![](https://leetcard.jacoblin.cool/yoshiiron?theme=catppuccinMocha&font=Anek%20Telugu)<br/> ![Codewars](https://github.r2v.ch/codewars?user=Yoshiiron&stroke=%23BB432C)<br/>
+![](https://leetcard.jacoblin.cool/yoshiiron?theme=catppuccinMocha&font=Anek%20Telugu)<br/> 
+![Codewars](https://github.r2v.ch/codewars?user=Yoshiiron&stroke=%23BB432C&hide_clan=true)<br/>
 
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
